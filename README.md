@@ -1,6 +1,7 @@
 <!-- 💻✨ Bienvenido a mi mundo de programación ✨💻 -->
 
-![Uploading 20250507_1131_Bienvenidos a mi GitHub_simple_compose_01jtn1a461fekt34t4wa6va02x (8).png…]()
+(![Uploading 20250507_1131_Bienvenidos a mi GitHub_simple_compose_01jtn1a461fekt34t4wa6va02x (8).png…]())
+
 
 # 👋 ¡Hola! Soy Jheremy 💙
 
