@@ -1,5 +1,10 @@
 <!-- 💻✨ Bienvenido a mi mundo de programación ✨💻 -->
 
+<p align="center">
+  <img src="banner.png" alt="Banner de bienvenida" />
+</p>
+
+
 # 👋 ¡Hola! Soy Jheremy 💙
 
 📍 Estudiante de Ingeniería Informática   
