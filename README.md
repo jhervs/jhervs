@@ -1,7 +1,7 @@
 <!-- 💻✨ Bienvenido a mi mundo de programación ✨💻 -->
 
 <p align="center">
-  <img src="banner.png" alt="Banner de bienvenida" />
+  <img src="GitHub.png" alt="Banner de bienvenida" />
 </p>
 
 
