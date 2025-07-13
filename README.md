@@ -4,7 +4,7 @@
   <img src="GitHub.png" alt="Banner de bienvenida" />
 </p>
 
-# 👋 ¡Hola! Soy Jheremy De Jesus Villafranca Seijas 💻✨
+# 👋 ¡Hola! Soy Jheremy Villafranca 💻✨
 
 Soy un futuro **Ingeniero Informático** y desarrollador autodidacta en constante aprendizaje.  
 Mi objetivo es convertirme en un **Desarrollador Backend profesional**, creando soluciones 
@@ -57,7 +57,7 @@ ejercicios prácticos y retos de programación.
 ---
 
 💬 **Nota de transparencia**  
-Todos los proyectos que comparto en este perfil han sido desarrollados por mí, **Jheremy De Jesus Villafranca Seijas**, como parte de mi formación autodidacta en programación.  
+Todos los proyectos que comparto en este perfil han sido desarrollados por mí, **Jheremy Villafranca**, como parte de mi formación autodidacta en programación.  
 He utilizado recursos como documentación oficial, cursos online, y el acompañamiento de **ChatGPT** como asistente técnico y mentor digital.
 
 **Todo el código ha sido escrito, comprendido y probado por mí.**  
