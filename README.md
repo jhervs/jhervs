@@ -64,4 +64,16 @@ Aquí iré subiendo mis avances por niveles de aprendizaje:
 
 ---
 
+---
+
+💬 **Nota de transparencia**  
+Todos los proyectos que comparto en este perfil han sido desarrollados por mí, **Jheremy De Jesus Villafranca Seijas**, como parte de mi formación autodidacta en programación.  
+He utilizado recursos como documentación oficial, cursos online, y el acompañamiento de **ChatGPT** como asistente técnico y mentor digital.
+
+**Todo el código ha sido escrito, comprendido y probado por mí.**  
+Valoro el aprendizaje guiado, pero cada proyecto refleja mi dedicación personal y mi proceso real de crecimiento ☺️✨.
+
+_By Jheremy & ChatGPT 💻🩵_
+
+
 _✨ Gracias por visitar mi perfil, cada estrella ⭐️ o fork 🍴 me motiva más a seguir creando ✨_
