@@ -6,8 +6,7 @@
 
 # 👋 ¡Hola! Soy Jheremy Villafranca 💻✨
 
-Soy un futuro **Ingeniero Informático** y desarrollador autodidacta en constante aprendizaje.  
-Mi objetivo es convertirme en un **Desarrollador Backend profesional**, creando soluciones 
+Soy un futuro **Ingeniero Informático** y desarrollador autodidacta en constante aprendizaje. Mi objetivo es convertirme en un **Desarrollador Backend profesional**, creando soluciones 
 funcionales y bien estructuradas con Python como lenguaje principal.
 
 Actualmente me estoy preparando para comenzar mis estudios de **ingenieria informatica** mientras avanzo con proyectos personales, 
