@@ -10,7 +10,7 @@ Soy un futuro **Ingeniero Informático** y desarrollador autodidacta en constant
 Mi objetivo es convertirme en un **Desarrollador Backend profesional**, creando soluciones 
 funcionales y bien estructuradas con Python como lenguaje principal.
 
-Actualmente me estoy preparando para comenzar mis estudios en la mientras avanzo con proyectos personales, 
+Actualmente me estoy preparando para comenzar mis estudios de **ingenieria informatica** mientras avanzo con proyectos personales, 
 ejercicios prácticos y retos de programación.
 
 ---
