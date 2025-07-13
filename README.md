@@ -28,7 +28,7 @@ ejercicios prácticos y retos de programación.
 
 | Proyecto        | Descripción                                                  | Tecnologías | Enlace |
 |----------------|--------------------------------------------------------------|-------------|--------|
-| Simulador MRU  | Calculadora de Movimiento Rectilíneo Uniforme en consola     | Python      | [Ver proyecto](https://github.com/jhervs/portafolio_jheremy/tree/main/simulador_mru) |
+| Simulador MRU  | Calculadora de Movimiento Rectilíneo Uniforme en consola     | Python      | [Ver proyecto](https://github.com/jhervs/jheremy-portafolio/tree/master/simulador_mru) |
 
 *(Iré añadiendo más proyectos a medida que avanzo 💪)*
 
