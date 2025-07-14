@@ -51,6 +51,7 @@ ejercicios prácticos y retos de programación.
 ## 🤝 Conecta conmigo
 
 - 🌐 GitHub: [@jhervs](https://github.com/jhervs)
+- 💼 LinkedIn: [jheremy-dev](https://www.linkedin.com/in/jheremy-dev/)
 - ✉️ jheremy.devjs@gmail.com
 
 ---
