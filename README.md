@@ -28,7 +28,7 @@ ejercicios prácticos y retos de programación.
 | Proyecto        | Descripción                                                  | Tecnologías | Enlace |
 |----------------|--------------------------------------------------------------|-------------|--------|
 | Simulador MRU  | Calculadora de Movimiento Rectilíneo Uniforme en consola     | Python      | [Ver proyecto](https://github.com/jhervs/jheremy-portafolio/tree/master/simulador_mru) |
-| To-do list      | Aplicación de consola para organizar tareas, editarlas, marcarlas como finalizadas o posponerlas. Ideal para gestionar pendientes diarios. | [Ver proyecto](./to_do_list) |
+| To-do list      | Aplicación de consola para organizar tareas, editarlas, marcarlas como finalizadas o posponerlas. Ideal para gestionar pendientes diarios. | Python      | [Ver proyecto](https://github.com/jhervs/jheremy_portafolio/tree/master/to_do_list) |
 
 *(Iré añadiendo más proyectos a medida que avanzo 💪)*
 
